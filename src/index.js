@@ -23,9 +23,9 @@ const prepareAndStartServer = () => {
         // });
 
         // console.log("new token is ", newToken);
-        const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrc2hhdGtiYTI0QGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MTkzOTc1NTEsImV4cCI6MTcxOTQwMTE1MX0.Vl8TXTzKIhWJrhJlXoY1LesGpK4PR-fg9teiSkbhf-k';
-        const response = service.verifyToken(token);
-        console.log(response);
+        // const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrc2hhdGtiYTI0QGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MTkzOTc1NTEsImV4cCI6MTcxOTQwMTE1MX0.Vl8TXTzKIhWJrhJlXoY1LesGpK4PR-fg9teiSkbhf-k';
+        // const response = service.verifyToken(token);
+        // console.log(response);
     })
 }
 
